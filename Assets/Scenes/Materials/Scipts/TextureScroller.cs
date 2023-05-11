@@ -1,13 +1,12 @@
 using System.Collections;
-using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
-
-public class NewBehaviourScript : MonoBehaviour
+[DebuggerDisplay( { nameof ("GetDebuggerDisplay , nq {)} ")] 
+public class TextureScroller : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
-    {
-        
+    
     }
 
     // Update is called once per frame
@@ -15,4 +14,4 @@ public class NewBehaviourScript : MonoBehaviour
     {
         
     }
-}
+
