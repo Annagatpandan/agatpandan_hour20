@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 604212482}
   - component: {fileID: 604212481}
   m_Layer: 0
-  m_Name: quad
+  m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
